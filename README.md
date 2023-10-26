@@ -1,2 +1,7 @@
-# Predictors_of_HIT
-Identification of patients at-risk for Heparin-Induced Thrombocytopenia (HIT) prior to the manifestation of symptoms remains a barrier in heparin therapy. In this study, we identified risk factors of HIT.
+#Heparin-Induced Thrombocytopenia Functional Assay Demographic Analysis
+###Author: Jason Giles
+###Last Updated: Octber 26, 2023
+
+##Location
+
+Repository for this project can be found at our organizations page: [https://github.com/Karnes-Lab](https://github.com/orgs/Karnes-Lab/repositories)https://github.com/orgs/Karnes-Lab/repositories
